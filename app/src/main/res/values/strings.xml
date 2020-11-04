@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="txtDiceType">Dice Type</string>
+    <string name="rdBtnFour">4</string>
+    <string name="rdBtnSix">6</string>
+    <string name="rdBtnEight">8</string>
+    <string name="rdBtnTen">10</string>
+    <string name="rdBtnTrueTen">True 10</string>
+    <string name="rdBtnTwelve">12</string>
+    <string name="rdBtnTwenty">20</string>
+    <string name="rdBtnRollOnce">Roll Once</string>
+    <string name="rdBtnRollTwice">Roll Twice</string>
+</resources>
